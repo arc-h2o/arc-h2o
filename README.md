@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal.</h1>
 <h3 align="center">A passionate learner.</h3>
 
-- 🔭 I’m currently working on **a C++ project.**
+- 🔭 I’m currently working on **a OOP project using C++.**
 
 - 🌱 I’m currently learning **OOP with C++ and Python.**
+
+- 🎮 I'm also a casual gamer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/arc-h2o](https://github.com/arc-h2o)
 
