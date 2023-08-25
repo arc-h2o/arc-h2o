@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal.</h1>
 <h3 align="center">A passionate learner.</h3>
 
-- 🔭 I’m currently working on **a OOP project using C++.**
+- 🔭 I’m currently working on **a project using C++.**
 
 - 🌱 I’m currently learning **OOP with C++ and Python.**
 
