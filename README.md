@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal.</h1>
 <h3 align="center">A passionate learner.</h3>
 
-- 🔭 I’m currently working on **a project using C++.**
+- 🔭 I’m currently working on **a project using Python.**
 
-- 🌱 I’m currently learning **OOP with C++ and Python.**
+- 🌱 I’m currently learning **computer graphics with Pygame.**
 
 - 🎮 I'm also a casual gamer.
 
